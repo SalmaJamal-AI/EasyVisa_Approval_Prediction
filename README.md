@@ -134,7 +134,7 @@ EasyVisa_Approval_Prediction/
 
 Open the notebook to review the complete workflow, from exploratory data analysis and preprocessing to model comparison, hyperparameter tuning, and final test-set evaluation.
 
-**[View the Jupyter Notebook](Project_Advanced_Machine_Learning_EasyVisa_SalmaJamal.ipynb)**
+**[View the Jupyter Notebook](Project_Advanced_Machine_Learning_EasyVisa.ipynb)**
 
 The dataset is not included in this repository unless added separately. Dataset access and any environment-specific paths may need to be configured before rerunning the notebook.
 
